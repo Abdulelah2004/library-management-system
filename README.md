@@ -54,6 +54,5 @@ This project is open-source and available for free download and modification.
 
 ---
 
-💡 **Tip:** For detailed setup instructions, check the [project documentation](#) (if available)
 
 📧 **Contact:** [ahmedabdulelah247@gmail.com] 
